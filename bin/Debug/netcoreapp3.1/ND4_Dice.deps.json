@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ND4_Dice/1.0.0": {
+        "runtime": {
+          "ND4_Dice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ND4_Dice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

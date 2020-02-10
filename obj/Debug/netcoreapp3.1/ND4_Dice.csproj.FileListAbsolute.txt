@@ -1,0 +1,11 @@
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\obj\Debug\netcoreapp3.1\ND4_Dice.csprojAssemblyReference.cache
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\obj\Debug\netcoreapp3.1\ND4_Dice.AssemblyInfoInputs.cache
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\obj\Debug\netcoreapp3.1\ND4_Dice.AssemblyInfo.cs
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\bin\Debug\netcoreapp3.1\ND4_Dice.exe
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\bin\Debug\netcoreapp3.1\ND4_Dice.deps.json
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\bin\Debug\netcoreapp3.1\ND4_Dice.runtimeconfig.json
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\bin\Debug\netcoreapp3.1\ND4_Dice.runtimeconfig.dev.json
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\bin\Debug\netcoreapp3.1\ND4_Dice.dll
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\bin\Debug\netcoreapp3.1\ND4_Dice.pdb
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\obj\Debug\netcoreapp3.1\ND4_Dice.dll
+C:\Users\Marius\source\repos\ND4_Dice\ND4_Dice\obj\Debug\netcoreapp3.1\ND4_Dice.pdb
